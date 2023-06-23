@@ -1,0 +1,29 @@
+#enlace {
+    font-size: 20px;
+    color: black;
+    margin: 265px;
+}
+
+#infobae {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    margin: 550px;
+
+
+}
+
+#puma {
+    font-size: 20px;
+    font-weight: bold;
+    color: yellow;
+    margin: 550px;
+
+}
+
+#as {
+    font-size: 20px;
+    font-weight: bold;
+    color: blueviolet;
+    margin-left: 550px;
+}

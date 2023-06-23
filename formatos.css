@@ -1,0 +1,35 @@
+.p1_green_ul {
+    text-decoration: underline;
+    color: green;
+}
+
+.p1_red {
+    color: red;
+    font-weight: bold;
+
+}
+
+#p1 {
+    text-decoration: underline overline;
+}
+
+#font {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.p1_blue {
+    color: blue;
+    font-weight: bold;
+}
+
+.p1_red_ul {
+
+    text-decoration: underline;
+    color: red;
+    font-size: 15px;
+    font-weight: bold;
+}
+#p {
+    text-align: center;
+}

@@ -1,0 +1,17 @@
+.tabla_1 {
+    background-color: yellow;
+    border-collapse: collapse;
+    border-bottom: dotted red;
+}
+
+.tabla_1 th {
+    color: red;
+}
+
+.tabla_1 th, td {
+    border: 1px dotted black;
+}
+
+#negrita {
+    font-size: 25px;
+}
